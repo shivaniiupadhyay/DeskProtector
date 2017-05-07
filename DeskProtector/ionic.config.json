@@ -1,0 +1,13 @@
+{
+  "name": "DeskProtector",
+  "app_id": "79362341",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
